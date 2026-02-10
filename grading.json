@@ -1,0 +1,7 @@
+{
+  "studentName": "Your Full Name",
+  "course": "COURSE-CODE",
+  "assignment": "Assignment 2",
+  "githubUsername": "YOUR_GITHUB_USERNAME",
+  "staticWebAppUrl": "https://<your-app-name>.azurestaticapps.net"
+}
