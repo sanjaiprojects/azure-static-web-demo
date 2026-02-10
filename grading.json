@@ -1,7 +1,7 @@
 {
-  "studentName": "Your Full Name",
-  "course": "COURSE-CODE",
+  "studentName": "Sanjay Sivakumar",
+  "course": "CD-4503",
   "assignment": "Assignment 2",
-  "githubUsername": "YOUR_GITHUB_USERNAME",
-  "staticWebAppUrl": "https://<your-app-name>.azurestaticapps.net"
+  "githubUsername": "sanjaiprojects",
+  "staticWebAppUrl": "https://witty-coast-036c1e30f.6.azurestaticapps.net"
 }
